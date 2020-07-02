@@ -18,6 +18,8 @@ The voting application will be running at [http://localhost:32415](http://localh
 The folder v3 contains the yaml specifications of the Voting App's services.
 
 ```
+$ git clone https://github.com/imraviarora/voting-app-mca-final.git
+$ cd voting-app-mca-final
 $ kubectl create -f v3/
 ```
 
