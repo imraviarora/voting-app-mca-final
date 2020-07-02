@@ -24,6 +24,10 @@ $ kubectl create -f v3/
 
 The voting application will be running at [http://localhost:32415](http://localhost:32415), and the results will be at [http://localhost:32414](http://localhost:32414).
 
+OR
+
+The voting application will be running at http://<system-ip>:32415, and the results will be at http://<system-ip>:32414.
+
 
 Architecture
 -----
