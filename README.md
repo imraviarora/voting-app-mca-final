@@ -26,7 +26,7 @@ The voting application will be running at [http://localhost:32415](http://localh
 
 OR
 
-The voting application will be running at http://<system-ip>:32415, and the results will be at http://<system-ip>:32414.
+The voting application will be running at http://system-ip:32415, and the results will be at http://system-ip:32414.
 
 
 Architecture
