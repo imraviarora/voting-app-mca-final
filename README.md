@@ -28,6 +28,14 @@ OR
 
 The voting application will be running at http://system-ip:32415, and the results will be at http://system-ip:32414.
 
+## Stop this application
+-------------------------
+
+```
+$ cd voting-app-mca-final
+$ kubectl delete -f v3/
+```
+
 
 Architecture
 -----
