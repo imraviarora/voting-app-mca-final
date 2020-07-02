@@ -10,7 +10,6 @@ Prerequisites:
 ```
 Docker & Kubernetes installed on system
 ```
-The voting application will be running at [http://localhost:32415](http://localhost:32415), and the results will be at [http://localhost:32414](http://localhost:32414).
 
 ## Run the app in Kubernetes
 -------------------------
@@ -22,6 +21,9 @@ $ git clone https://github.com/imraviarora/voting-app-mca-final.git
 $ cd voting-app-mca-final
 $ kubectl create -f v3/
 ```
+
+The voting application will be running at [http://localhost:32415](http://localhost:32415), and the results will be at [http://localhost:32414](http://localhost:32414).
+
 
 Architecture
 -----
